@@ -8,4 +8,8 @@ img {
 @media (min-width:1080px)  { /* portrait desktops */ }
 @media (min-width:1120px) { /* portrait tablets */ }
 @media (min-width:1920px) { /*  desktops */ }
-   
+ 
+
+summary:hover {
+    cursor: pointer;
+}
