@@ -13,3 +13,5 @@ img {
 summary:hover {
     cursor: pointer;
 }
+
+details { text-align: center }
