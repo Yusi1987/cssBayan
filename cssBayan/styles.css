@@ -1,0 +1,17 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+@media (min-width:320px)  { /* smartphones */ }
+@media (min-width:568px)  { /* portrait smartphones */ }
+@media (min-width:820px)  { /*  tablets */ }
+@media (min-width:1080px)  { /* portrait desktops */ }
+@media (min-width:1120px) { /* portrait tablets */ }
+@media (min-width:1920px) { /*  desktops */ }
+ 
+
+summary:hover {
+    cursor: pointer;
+}
+
+details { text-align: center }
